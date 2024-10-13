@@ -1,6 +1,6 @@
 # Notes Repository
 
-Welcome to the **Notes Repository**! This repository is designed to document and organize notes across various topics. Whether you're studying, working on a project, or simply keeping track of your ideas, this repository provides a structured way to store, access, and update your notes.
+Welcome to the **Notes Repository**! This repository is for us students to document and organize notes on software development. This notes repo should be an actor to help us develop a congruent understanding of both the material taught from our curriulum aswell as external information. 
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ Welcome to the **Notes Repository**! This repository is designed to document and
 
 ## Overview
 
-This repository is created to store notes on various subjects in a clean and organized manner. Each note is categorized and stored in its respective folder, making it easy to navigate and find specific information. Whether it's for personal use, collaboration, or sharing knowledge, this repository can be adapted to fit different needs.
+This repository is created to store notes on software development in a clean and organized manner. Each topic about software development is categorized and stored in its respective folder, making it easy to navigate and find specific information.
 
 ## Structure
 
